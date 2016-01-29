@@ -1,4 +1,5 @@
 # BashForBootstarp
+Bash Script for a Blog !!
 This is a simple bash script for making a responsive bootstrap webpage.
 BashForBootstrap takes in all you information and converts it into a responsive bootstrap powered page.
 The feature of posts has been introduced.
